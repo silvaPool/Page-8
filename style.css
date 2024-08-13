@@ -296,10 +296,10 @@
 .section-7 {
     background-color: red;
     height: 90vh;
+    padding: 5px;
 }
 
 .wrapper-section-7 {
-    border: 1px solid beige;
     width: 40vw;
     display: flex;
     justify-content: space-between;
